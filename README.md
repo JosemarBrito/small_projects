@@ -9,3 +9,8 @@ ____
 + Digitar o nome do país em Inglês
 
 ____
+2° Projeto (Gerador de CPF + Lista)
+-
+###Gerador de CPF com lista txt
+
++ Digitar a quantidade de CPF a serem gerados, lista será atualizada automaticamente.
